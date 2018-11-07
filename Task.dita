@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_vf3_53p_sfb">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>task</title>
+    <shortdesc>test1</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>asdfsdaf</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>command 1</cmd>
             </step>
         </steps>
     </taskbody>
