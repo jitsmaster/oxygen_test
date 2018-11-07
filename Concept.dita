@@ -6,4 +6,7 @@
     <conbody>
         <p>Test body copy for concept 1</p>
     </conbody>
+    <concept id="concept_e3j_n3p_sfb">
+        <title>Concept 2</title>
+    </concept>
 </concept>
