@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_w1s_yfp_sfb">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Concept 1</title>
+    <shortdesc>Description for concept 1</shortdesc>
     <conbody>
-        <p></p>
+        <p>Test body copy for concept 1</p>
     </conbody>
 </concept>
